@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fotodusza",
-    "currentPage": "page8.html",
+    "currentPage": "gallery.html",
     "ai": {
       "prompt": "Fotografia rodzina i dzicięca kobieca i okolicznościowa. zdjęcia opis ",
       "imageSearchQuery": "family"
@@ -11,9 +11,9 @@
       "title": "StartM5",
       "styling": {
         "backgroundColor": "#FFFDF5",
-        "primaryColor": "#c1fba4",
+        "primaryColor": "#9fe870",
         "secondaryColor": "#90F1EF",
-        "successColor": "#c1fba4",
+        "successColor": "#9fe870",
         "infoColor": "#75E2F7",
         "warningColor": "#FFDB6D",
         "dangerColor": "#E9838C",
@@ -1418,6 +1418,9 @@
             },
             ".row": {
               "flex-direction": "row-reverse"
+            },
+            ".mbr-description": {
+              "color": "#9fe870"
             }
           },
           "_name": "image03",
