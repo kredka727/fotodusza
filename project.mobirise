@@ -259,7 +259,7 @@
         "css": "'Source Serif 4', sans-serif"
       }
     ],
-    "uniqCompNum": 122,
+    "uniqCompNum": 129,
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x94_2.png",
     "mbrsiteDomain": "wdhvhfnvwv",
@@ -278,7 +278,7 @@
     "gallery.html": {
       "settings": {
         "title": "Galeria",
-        "order": "1",
+        "order": "2",
         "meta_descr": "Możesz tu zobaczyć nasze przykładowe zdjęcia."
       },
       "components": [
@@ -1598,7 +1598,7 @@
     "sessionreservation.html": {
       "settings": {
         "title": "Rezerwacja sesji",
-        "order": "2",
+        "order": "3",
         "meta_descr": "Tutaj możesz zarezerwować swoją sesje zdjęciową."
       },
       "components": [
@@ -3896,7 +3896,7 @@
     "page3.html": {
       "settings": {
         "title": "Ewelina i Łukasz",
-        "order": "12"
+        "order": "13"
       },
       "components": [
         {
@@ -5003,7 +5003,7 @@
     "page4.html": {
       "settings": {
         "title": "Komunia Lenki",
-        "order": "11"
+        "order": "12"
       },
       "components": [
         {
@@ -6110,7 +6110,7 @@
     "page5.html": {
       "settings": {
         "title": "Dorota i Michał",
-        "order": "10"
+        "order": "11"
       },
       "components": [
         {
@@ -7217,7 +7217,7 @@
     "page6.html": {
       "settings": {
         "title": "Komunia Michała",
-        "order": "9"
+        "order": "10"
       },
       "components": [
         {
@@ -8324,7 +8324,7 @@
     "page7.html": {
       "settings": {
         "title": "Aleksandra",
-        "order": "8"
+        "order": "9"
       },
       "components": [
         {
@@ -9431,7 +9431,7 @@
     "page8.html": {
       "settings": {
         "title": "Ania",
-        "order": "13"
+        "order": "14"
       },
       "components": [
         {
@@ -10541,7 +10541,7 @@
     "page9.html": {
       "settings": {
         "title": "Monika",
-        "order": "7"
+        "order": "8"
       },
       "components": [
         {
@@ -11647,7 +11647,7 @@
     "page10.html": {
       "settings": {
         "title": "Justyna i Staszek",
-        "order": "6"
+        "order": "7"
       },
       "components": [
         {
@@ -12765,7 +12765,7 @@
     "page11.html": {
       "settings": {
         "title": "Paulina i Michał",
-        "order": "5"
+        "order": "6"
       },
       "components": [
         {
@@ -13871,7 +13871,7 @@
     "page12.html": {
       "settings": {
         "title": "Kamila i Konrad",
-        "order": "4"
+        "order": "5"
       },
       "components": [
         {
@@ -14977,7 +14977,7 @@
     "page13.html": {
       "settings": {
         "title": "Chrzest Aleksandra",
-        "order": "3"
+        "order": "4"
       },
       "components": [
         {
